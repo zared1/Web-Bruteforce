@@ -21,7 +21,7 @@ pip install requests
 3. Run the script:
 
 ```bash
-python3 zeb-bruteforce.py <URL> <username> <passwords-file>
+python3 web-bruteforce.py <URL> <username> <passwords-file>
 # Example:
 python3 web-bruteforce.py http://example.com/protected administrator ./passwords.txt
 ```
